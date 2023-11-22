@@ -1,6 +1,6 @@
 package JavaProgrammingIntro.ch03;
 
-public class ch_3_1_1_TypeChange {
+public class ch_3_1_TypeChange {
     public static void main(String[] args) {
         int num = 1;
         byte num2 = 1;

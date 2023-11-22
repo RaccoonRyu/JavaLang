@@ -1,6 +1,6 @@
 package JavaProgrammingIntro.ch03;
 
-public class ch_3_1_0_final {
+public class ch_3_0_final {
     public static void main(String[] args) {
         final int MAX_NUM = 100; // 선언과 동시에 초기화
         final int MIN_NUM; // 선언만

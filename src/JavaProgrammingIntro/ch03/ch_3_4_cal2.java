@@ -1,6 +1,6 @@
 package JavaProgrammingIntro.ch03;
 
-public class ch_3_1_4_cal2 {
+public class ch_3_4_cal2 {
     public static void main(String[] args) {
         int num31 = 1;
         int num32 = 2;

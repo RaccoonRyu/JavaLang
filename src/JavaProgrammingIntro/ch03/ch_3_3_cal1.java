@@ -1,6 +1,6 @@
 package JavaProgrammingIntro.ch03;
 
-public class ch_3_1_3_cal1 {
+public class ch_3_3_cal1 {
     public static void main(String[] args) {
         byte num11 = 1;
         byte num12 = 2;

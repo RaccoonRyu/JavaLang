@@ -1,6 +1,6 @@
 package JavaProgrammingIntro.ch03;
 
-public class ch_3_1_2_TypeChange2 {
+public class ch_3_2_TypeChange2 {
     public static void main(String[] args) {
         int num = 2147483647;
         // int num2 = 2147483648; // int의 크기보다 큰 값을 초기화하므로 에러 발생
