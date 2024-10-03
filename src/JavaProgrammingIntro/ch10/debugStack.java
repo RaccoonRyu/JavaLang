@@ -22,4 +22,4 @@ public class debugStack {
     }
     // adder() 메서드의 진행이 끝나면 main() 메서드가 다시 실행되고
     // adder() 관련 프레임은 스택 영역에서 삭제
-}
+} // main()이 종료되면 main() 관련 프레임은 스택 영역에서 삭제
